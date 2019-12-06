@@ -3,7 +3,7 @@
 #The codes below are copied from textbook.
 
 import sys
-sys.path.append(r'D:\Program files\JetBrains\PyQt5')
+
 from PyQt5.QtWidgets import QDialog, QApplication
 from demos.demoLineEdit import *
 
