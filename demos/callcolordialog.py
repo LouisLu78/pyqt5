@@ -13,13 +13,13 @@ class MyForm(QDialog):
         self.ui.setupUi(self)
 
         col = QColor(0, 0, 0)
-        self.ui.framecolor.setStyleSheet("QWidget{backgroundcolor: %s}" % col.name())
+        self.ui.framecolor.setStyleSheet("QWidget{background-color: %s}" % col.name())
         self.ui.pushButtoncolor.clicked.connect(self.dispcolor)
 
     def dispcolor(self):
         col = QColorDialog.getColor()
         if col.isValid():
-            self.ui.framecolor.setStyleSheet("QWidget{backgroundcolor: %s}" % col.name())
+            self.ui.framecolor.setStyleSheet("QWidget{background-color: %s}" % col.name())
             self.ui.labelcolor.setText("You have selected the color with code: " + str(col.name()))
 
 if __name__=='__main__':
