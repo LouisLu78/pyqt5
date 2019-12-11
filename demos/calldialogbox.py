@@ -17,7 +17,7 @@ class MyForm(QDialog):
         countries = ("Albania", "Algeria", "Andorra", "Angola",
                      "Antigua and Barbuda", "Argentina", "Armenia", "Aruba",
                      "Australia", "Austria", "Azerbaijan")
-        countryname, ok=QInputDialog.getItem(self, 'Input dialog', 'List of countries', countries, 0, False)
+        countryname, ok=QInputDialog.getItem(self, 'Input dialog', 'List of countries', countries, 0, True)
         if countryname and ok:
             self.ui.lineEditcountry.setText(countryname)
 
