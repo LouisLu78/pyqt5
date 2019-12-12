@@ -19,17 +19,16 @@ class MyForm(QMainWindow):
         if fname[0]:
             with open(fname[0], 'r') as f:
                 data = f.read()
-                self.ui.textEdit.setText(data)
+            self.ui.textEdit.setText(data)
 
     def savefiledialog(self):
         options = QFileDialog.Options()
         options |= QFileDialog.DontUseNativeDialog
         fileName, _ = QFileDialog.getSaveFileName(self, "QFileDialog.getSaveFileName()","",""
                                                         "All Files(*);;Text Files(*.txt)", options = options)
-        f = open(fileName, 'w')
         text = self.ui.textEdit.toPlainText()
-        f.write(text)
-        f.close()
+        with open(fileName, 'w') as f:
+            f.write(text)
 
 if __name__=='__main__':
     app = QApplication(sys.argv)
