@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="These are the modules I build for further usage.">
-      <change afterPath="$PROJECT_DIR$/demos/calldockwidgets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoDockWidget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoDockWidget.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/calldemoMDI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoMDI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoMDI.ui" afterDir="false" />
       <change beforePath="$USER_HOME$/eclipse-workspace/Exercise" beforeDir="false" afterPath="$USER_HOME$/eclipse-workspace/Exercise" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Program files/JetBrains/my_module/vectors_angle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/vectors_angle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_git.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,20 +45,20 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.callserver">
-    <configuration name="callLineEdit" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="my_git" />
+  <component name="RunManager" selected="Python.calldemoMDI">
+    <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Program files/JetBrains/my_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callLineEdit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/Fetch_today_News.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calldockwidgets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="calldemoMDI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calldockwidgets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calldemoMDI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calldemoMDI" />
+        <item itemvalue="Python.Fetch_today_News" />
         <item itemvalue="Python.callserver" />
         <item itemvalue="Python.computeRoomRent" />
         <item itemvalue="Python.callListWidget3" />
-        <item itemvalue="Python.callLineEdit" />
-        <item itemvalue="Python.calldockwidgets" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576398233763</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="These are the modules I build for further usage.">
+      <created>1576421100579</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576421100579</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,46 +229,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="These are the modules I build for further usage." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1576421084932">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1576421141635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576421084932" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576421141635" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1576398154867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576398154867" />
-    <state width="1894" height="270" key="GridCell.Tab.0.bottom" timestamp="1576421016179">
+    <state width="1894" height="270" key="GridCell.Tab.0.bottom" timestamp="1576479407157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576421016179" />
-    <state width="1894" height="270" key="GridCell.Tab.0.center" timestamp="1576421016179">
+    <state width="1894" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576479407157" />
+    <state width="1894" height="270" key="GridCell.Tab.0.center" timestamp="1576479407157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576421016179" />
-    <state width="1894" height="270" key="GridCell.Tab.0.left" timestamp="1576421016179">
+    <state width="1894" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576479407157" />
+    <state width="1894" height="270" key="GridCell.Tab.0.left" timestamp="1576479407157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576421016179" />
-    <state width="1894" height="270" key="GridCell.Tab.0.right" timestamp="1576421016179">
+    <state width="1894" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576479407157" />
+    <state width="1894" height="270" key="GridCell.Tab.0.right" timestamp="1576479407157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576421016179" />
+    <state width="1894" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576479407157" />
     <state x="348" y="78" key="SettingsEditor" timestamp="1576397585898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576397585898" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1576398395367">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1576421103219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576398395367" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576421103219" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398178075" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1576419373523">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1576478304316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576419373523" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576478304316" />
     <state x="738" y="374" key="git4idea.rebase.GitRebaseDialog" timestamp="1576397241558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
