@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="These are the modules I build for further usage.">
-      <change afterPath="$PROJECT_DIR$/demos/calldemoMDI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoMDI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoMDI.ui" afterDir="false" />
+    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
       <change beforePath="$USER_HOME$/eclipse-workspace/Exercise" beforeDir="false" afterPath="$USER_HOME$/eclipse-workspace/Exercise" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,10 +225,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="These are the modules I build for further usage." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1576421141635">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1576479453881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576421141635" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576479453881" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1576398154867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
