@@ -21,10 +21,13 @@ class MyForm(QMainWindow):
 
     def SubWindow_View(self):
         self.ui.mdiArea.setViewMode(0)
+
     def Tab_View(self):
         self.ui.mdiArea.setViewMode(1)
+
     def Cascade_View(self):
         self.ui.mdiArea.cascadeSubWindows()
+
     def Tile_View(self):
         self.ui.mdiArea.tileSubWindows()
 
