@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demos/demoTabwidget.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoMenuBar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoMenuBar.ui" afterDir="false" />
       <change beforePath="$USER_HOME$/eclipse-workspace/Exercise" beforeDir="false" afterPath="$USER_HOME$/eclipse-workspace/Exercise" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/calldemoMDI.py" beforeDir="false" afterPath="$PROJECT_DIR$/demos/calldemoMDI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.callTabWidget">
+  <component name="RunManager" selected="Python.calldemoMDI">
     <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,6 +58,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/Fetch_today_News.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="callListWidget3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callListWidget3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,34 +150,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="callserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="my_git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callserver.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calldemoMDI" />
+        <item itemvalue="Python.callListWidget3" />
+        <item itemvalue="Python.Fetch_today_News" />
         <item itemvalue="Python.callTabWidget" />
         <item itemvalue="Python.calldockwidgets" />
-        <item itemvalue="Python.calldemoMDI" />
-        <item itemvalue="Python.Fetch_today_News" />
-        <item itemvalue="Python.callserver" />
       </list>
     </recent_temporary>
   </component>
@@ -228,30 +228,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="These are the modules I build for further usage." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1576486260148">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1576486278047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576486260148" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576486278047" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1576398154867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576398154867" />
-    <state width="1894" height="270" key="GridCell.Tab.0.bottom" timestamp="1576486237226">
+    <state width="1894" height="270" key="GridCell.Tab.0.bottom" timestamp="1576592770636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576486237226" />
-    <state width="1894" height="270" key="GridCell.Tab.0.center" timestamp="1576486237226">
+    <state width="1894" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576592770636" />
+    <state width="1894" height="270" key="GridCell.Tab.0.center" timestamp="1576592770636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576486237226" />
-    <state width="1894" height="270" key="GridCell.Tab.0.left" timestamp="1576486237226">
+    <state width="1894" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576592770636" />
+    <state width="1894" height="270" key="GridCell.Tab.0.left" timestamp="1576592770636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576486237226" />
-    <state width="1894" height="270" key="GridCell.Tab.0.right" timestamp="1576486237226">
+    <state width="1894" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576592770636" />
+    <state width="1894" height="270" key="GridCell.Tab.0.right" timestamp="1576592770636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576486237226" />
+    <state width="1894" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576592770636" />
     <state x="348" y="78" key="SettingsEditor" timestamp="1576397585898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -264,10 +264,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398178075" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1576484548313">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1576591570535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576484548313" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576591570535" />
     <state x="738" y="374" key="git4idea.rebase.GitRebaseDialog" timestamp="1576397241558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
