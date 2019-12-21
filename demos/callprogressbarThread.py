@@ -10,13 +10,14 @@ class MyForm(QDialog):
         super().__init__()
         self.ui=Ui_Dialog()
         self.ui.setupUi(self)
-
+        self.show()
 class MyThread(threading.Thread):
     counter=0
     def __init__(self,w):
         threading.Thread.__init__(self)
         self.w=w
         self.counter=0
+        self.run()
 
     def run(self):
         print("Starting " + self.name)

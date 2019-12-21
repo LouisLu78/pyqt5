@@ -14,7 +14,7 @@ class MyForm(QDialog):
 
 class MyThread(threading.Thread):
     counter=0
-    def __init__(self,w, ProgressBar):
+    def __init__(self, w, ProgressBar):
         threading.Thread.__init__(self)
         self.w=w
         self.counter=0
