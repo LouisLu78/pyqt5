@@ -15,9 +15,9 @@ class MyForm(QDialog):
 
     def updatebar(self):
         x = 0
-        while x < 100:
+        while x <= 100:
             x += 0.0001
-        self.ui.progressBar.setValue(x)
+            self.ui.progressBar.setValue(x)
 
 if __name__=='__main__':
     app = QApplication(sys.argv)
