@@ -20,11 +20,10 @@ class MyThread(threading.Thread):
         self.counter=0
         self.P=P
 
-
     def run(self):
+        print("Starting " + self.name)
         lock=threading.Lock()
         lock.acquire()
-        print("Starting " + self.name)
         while self.counter <= 100:
             self.P.setValue(self.counter)
             self.counter+=10

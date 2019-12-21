@@ -16,3 +16,24 @@ class MyForm(QDialog):
         self.show()
 
     def invokeAsync(self):
+        asyncio.ensure_future(self.updt(0.25, self.ui.progressBarFileDownload))
+        asyncio.ensure_future(self.updt(0.5, self.ui.progressBarVirusScan))
+
+    @staticmethod
+    async def updt(delay, ProgressBar):
+        for i in range(101):
+            await asyncio.sleep(delay)
+            ProgressBar.setValue(i)
+        def stopper(loop):
+            loop.stop()
+
+if __name__=="__main__":
+    app = QApplication(sys.argv)
+    loop=QEventLoop(app)
+    asyncio.set_event_loop(loop)
+    w=MyForm()
+    w.exec()
+    with loop:
+        loop.run_forever()
+        loop.close()
+    sys.exit(app.exec_())
