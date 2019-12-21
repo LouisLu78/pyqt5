@@ -13,23 +13,24 @@ class MyForm(QDialog):
         self.show()
 
 class MyThread(threading.Thread):
-    counter=0
-    def __init__(self, w, ProgressBar):
+
+    def __init__(self, w, P):
         threading.Thread.__init__(self)
         self.w=w
         self.counter=0
-        self.ProgressBar=ProgressBar
+        self.P=P
+
 
     def run(self):
-        print("Starting " + self.name + "n")
         lock=threading.Lock()
         lock.acquire()
+        print("Starting " + self.name)
         while self.counter <= 100:
-            time.sleep(1)
-            self.ProgressBar.setValue(self.counter)
+            self.P.setValue(self.counter)
             self.counter+=10
-            lock.release()
-            print("Exiting " + self.name+ 'n')
+            time.sleep(1)
+            print("Exiting " + self.name)
+        lock.release()
 
 if __name__=="__main__":
     app = QApplication(sys.argv)
