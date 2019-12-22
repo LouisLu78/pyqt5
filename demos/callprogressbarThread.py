@@ -22,7 +22,7 @@ class MyThread(threading.Thread):
     def run(self):
         print("Starting " + self.name)
         while self.counter <= 100:
-            self.w.ui.progressBar.setValue(int(self.counter))
+            self.w.ui.progressBar.setValue(self.counter)
             self.counter+=10
             time.sleep(1)
             print("Exiting " + self.name)

@@ -20,16 +20,25 @@ class MyThread(threading.Thread):
         self.counter=0
         self.P=P
 
+    # def run(self):
+    #     print("Starting " + self.name)
+    #     lock=threading.Lock()
+    #     lock.acquire()
+    #     while self.counter <= 100:
+    #         self.P.setValue(self.counter)
+    #         self.counter+=10
+    #         time.sleep(1)
+    #         print("Exiting " + self.name)
+    #     lock.release()
+
     def run(self):
         print("Starting " + self.name)
-        lock=threading.Lock()
-        lock.acquire()
-        while self.counter <= 100:
-            self.P.setValue(self.counter)
-            self.counter+=10
-            time.sleep(1)
-            print("Exiting " + self.name)
-        lock.release()
+        with threading.Lock():
+            while self.counter <= 100:
+                self.P.setValue(self.counter)
+                self.counter += 10
+                time.sleep(1)
+                print("Exiting " + self.name)
 
 if __name__=="__main__":
     app = QApplication(sys.argv)
