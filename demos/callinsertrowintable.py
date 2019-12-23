@@ -31,7 +31,6 @@ class MyForm(QDialog):
         finally:
             conn.close()
 
-
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     w = MyForm()

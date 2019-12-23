@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change beforePath="$USER_HOME$/Exercise/Machine_Learning/ML_ex01.py" beforeDir="false" afterPath="$USER_HOME$/Exercise/Machine_Learning/ML_ex01.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/Exercise/Machine_Learning/ML_ex02.py" beforeDir="false" afterPath="$USER_HOME$/Exercise/Machine_Learning/ML_ex02.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/Exercise/Practice/calculation.py" beforeDir="false" afterPath="$USER_HOME$/Exercise/Practice/calculation.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/Exercise/Practice/test.py" beforeDir="false" afterPath="$USER_HOME$/Exercise/Practice/test.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/eclipse-workspace/Exercise" beforeDir="false" />
+    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="These are the modules I build for further usage.">
+      <change afterPath="$PROJECT_DIR$/demos/calldisplayrows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoDisplayRowsOfTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoDisplayRowsOfTable.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/callBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/demos/callBrowser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/callinsertrowintable.py" beforeDir="false" afterPath="$PROJECT_DIR$/demos/callinsertrowintable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Exercise" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1UbTiAEQM5Ml8qNlViCUTbU1sXR" />
@@ -39,8 +39,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Exercise" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -49,7 +49,7 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.callinsertrowintable">
+  <component name="RunManager" selected="Python.callcreatedatabase">
     <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,27 +63,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/Fetch_today_News.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="callcombobox" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="my_git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callcombobox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,13 +134,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Exercise/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Exercise/Practice/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.callinsertrowintable" />
-        <item itemvalue="Python.Fetch_today_News" />
-        <item itemvalue="Python.callcreateTable" />
         <item itemvalue="Python.callcreatedatabase" />
-        <item itemvalue="Python.callcombobox" />
+        <item itemvalue="Python.Fetch_today_News" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.callinsertrowintable" />
+        <item itemvalue="Python.callcreateTable" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +279,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577024849115</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="These are the modules I build for further usage.">
+      <created>1577087831691</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1577087831691</updated>
+    </task>
+    <task id="LOCAL-00015" summary="These are the modules I build for further usage.">
+      <created>1577088044226</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1577088044226</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -297,34 +311,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="665" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577084753967" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577087830910">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577089273950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577087830910" />
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1577087762507">
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577089273950" />
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1577090149840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577087762507" />
-    <state x="738" y="369" width="474" height="302" key="Github.ShareDialog" timestamp="1576761116306">
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577090149840" />
+    <state x="738" y="369" width="474" height="302" key="Github.ShareDialog" timestamp="1577089449658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576761116306" />
-    <state width="1251" height="268" key="GridCell.Tab.0.bottom" timestamp="1577087238323">
+    <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1577093829501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577087238323" />
-    <state width="1251" height="268" key="GridCell.Tab.0.center" timestamp="1577087238323">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577093829501" />
+    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1577093829501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577087238323" />
-    <state width="1251" height="268" key="GridCell.Tab.0.left" timestamp="1577087238323">
+    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577093829501" />
+    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1577093829501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577087238323" />
-    <state width="1251" height="268" key="GridCell.Tab.0.right" timestamp="1577087238323">
+    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577093829501" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1577093829501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577087238323" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577093829501" />
     <state width="1894" height="335" key="GridCell.Tab.1.bottom" timestamp="1576933866915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -341,26 +355,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1894" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576933866915" />
-    <state x="348" y="78" key="SettingsEditor" timestamp="1577087802893">
+    <state x="348" y="78" key="SettingsEditor" timestamp="1577090077562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577087802893" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577087920558">
+    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577090077562" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577090175488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577087920558" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577090175488" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398178075" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577081707872">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577093142655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577081707872" />
-    <state x="738" y="374" key="git4idea.rebase.GitRebaseDialog" timestamp="1576397241558">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577093142655" />
+    <state x="632" y="285" key="git4idea.merge.GitPullDialog" timestamp="1577089028368">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="738" y="374" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576397241558" />
+    <state x="632" y="285" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089028368" />
+    <state x="738" y="374" key="git4idea.rebase.GitRebaseDialog" timestamp="1577089488073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="374" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089488073" />
     <state x="731" y="410" key="git4idea.ui.GitStashDialog" timestamp="1576398072769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
