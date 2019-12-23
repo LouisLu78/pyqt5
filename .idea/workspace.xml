@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="These are the modules I build for further usage.">
-      <change afterPath="$PROJECT_DIR$/demos/callinsertrowintable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/chemistry.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoInsertRowsInTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoInsertRowsInTable.ui" afterDir="false" />
-      <change beforePath="$USER_HOME$/eclipse-workspace/Exercise" beforeDir="false" afterPath="$USER_HOME$/eclipse-workspace/Exercise" afterDir="false" />
+    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
+      <change beforePath="$USER_HOME$/Exercise/Machine_Learning/ML_ex01.py" beforeDir="false" afterPath="$USER_HOME$/Exercise/Machine_Learning/ML_ex01.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Exercise/Machine_Learning/ML_ex02.py" beforeDir="false" afterPath="$USER_HOME$/Exercise/Machine_Learning/ML_ex02.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Exercise/Practice/calculation.py" beforeDir="false" afterPath="$USER_HOME$/Exercise/Practice/calculation.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Exercise/Practice/test.py" beforeDir="false" afterPath="$USER_HOME$/Exercise/Practice/test.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/eclipse-workspace/Exercise" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/callcreateTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/demos/callcreateTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demos/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Exercise" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1UbTiAEQM5Ml8qNlViCUTbU1sXR" />
@@ -41,11 +39,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Exercise" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Basanwei\" />
       <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise\ex" />
       <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
     </key>
@@ -298,14 +297,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="665" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577084753967" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577024847863">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577087830910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577024847863" />
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1576398154867">
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577087830910" />
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1577087762507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576398154867" />
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577087762507" />
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog" timestamp="1576761116306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -342,14 +341,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1894" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576933866915" />
-    <state x="348" y="78" key="SettingsEditor" timestamp="1577024353785">
+    <state x="348" y="78" key="SettingsEditor" timestamp="1577087802893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577024353785" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577024851599">
+    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577087802893" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577087920558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577024851599" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577087920558" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

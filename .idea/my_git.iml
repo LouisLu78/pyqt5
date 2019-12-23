@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="my_module" />
     <orderEntry type="module" module-name="eclipse-workspace" />
+    <orderEntry type="module" module-name="Exercise" />
   </component>
 </module>
