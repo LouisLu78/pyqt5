@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="These are the modules I build for further usage.">
-      <change afterPath="$PROJECT_DIR$/demos/callcreateTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoCreateTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoCreateTable.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/callinsertrowintable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/chemistry.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoInsertRowsInTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoInsertRowsInTable.ui" afterDir="false" />
       <change beforePath="$USER_HOME$/eclipse-workspace/Exercise" beforeDir="false" afterPath="$USER_HOME$/eclipse-workspace/Exercise" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/callcreateTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/demos/callcreateTable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demos/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +24,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1UbTiAEQM5Ml8qNlViCUTbU1sXR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -37,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -45,7 +50,7 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.callcreateTable">
+  <component name="RunManager" selected="Python.callinsertrowintable">
     <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calltwopbacynio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="callinsertrowintable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calltwopbacynio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callinsertrowintable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.callinsertrowintable" />
+        <item itemvalue="Python.Fetch_today_News" />
         <item itemvalue="Python.callcreateTable" />
         <item itemvalue="Python.callcreatedatabase" />
         <item itemvalue="Python.callcombobox" />
-        <item itemvalue="Python.Fetch_today_News" />
-        <item itemvalue="Python.calltwopbacynio" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +266,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577018043356</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="These are the modules I build for further usage.">
+      <created>1577023072202</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1577023072202</updated>
+    </task>
+    <task id="LOCAL-00013" summary="These are the modules I build for further usage.">
+      <created>1577024849115</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1577024849115</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,10 +290,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="These are the modules I build for further usage." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577018042465">
+    <state x="452" y="100" key="#Notifications" timestamp="1577082605481">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577018042465" />
+    <state x="452" y="100" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1577082605481" />
+    <state x="665" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577084753967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577084753967" />
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577024847863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577024847863" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1576398154867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -283,22 +310,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576761116306" />
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1577021026345">
+    <state width="1251" height="268" key="GridCell.Tab.0.bottom" timestamp="1577087238323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577021026345" />
-    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1577021026345">
+    <state width="1251" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577087238323" />
+    <state width="1251" height="268" key="GridCell.Tab.0.center" timestamp="1577087238323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577021026345" />
-    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1577021026345">
+    <state width="1251" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577087238323" />
+    <state width="1251" height="268" key="GridCell.Tab.0.left" timestamp="1577087238323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577021026345" />
-    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1577021026345">
+    <state width="1251" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577087238323" />
+    <state width="1251" height="268" key="GridCell.Tab.0.right" timestamp="1577087238323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577021026345" />
+    <state width="1251" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577087238323" />
     <state width="1894" height="335" key="GridCell.Tab.1.bottom" timestamp="1576933866915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -315,22 +342,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1894" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576933866915" />
-    <state x="348" y="78" key="SettingsEditor" timestamp="1576930006110">
+    <state x="348" y="78" key="SettingsEditor" timestamp="1577024353785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576930006110" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577018044934">
+    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577024353785" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577024851599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577018044934" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577024851599" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398178075" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577018154050">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577081707872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577018154050" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577081707872" />
     <state x="738" y="374" key="git4idea.rebase.GitRebaseDialog" timestamp="1576397241558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -36,6 +36,7 @@ class MyForm(QDialog):
             c=conn.cursor()
             tabledefinition+=');'
             c.execute(tabledefinition)
+            self.ui.labelResponse.setText("Table is successfully created.")
 
         except Error as e:
             self.ui.labelResponse.setText('Some mistakes have occured.')

@@ -1,1 +1,1 @@
-all codes in this folder are examples from textbook.
+all codes in this folder are examples copied from textbook.
