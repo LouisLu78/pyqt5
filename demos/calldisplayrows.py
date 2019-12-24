@@ -24,12 +24,12 @@ class MyForm(QDialog):
             rowNo=0
             for tuple in rows:
                 self.ui.labelResponse.setText("")
-            colNo = 0
-            for columns in tuple:
-                oneColumn = QTableWidgetItem(columns)
-            self.ui.tableWidget.setItem(rowNo, colNo, oneColumn)
-            colNo += 1
-            rowNo += 1
+                colNo = 0
+                for columns in tuple:
+                    oneColumn = QTableWidgetItem(columns)
+                    self.ui.tableWidget.setItem(rowNo, colNo, oneColumn)
+                    colNo += 1
+                rowNo += 1
 
         except Error as e:
             self.ui.tableWidget.clear()
