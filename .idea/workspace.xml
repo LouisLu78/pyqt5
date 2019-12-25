@@ -19,7 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Program files/JetBrains/my_module" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1UbTiAEQM5Ml8qNlViCUTbU1sXR" />
@@ -157,8 +157,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.count_words" />
-        <item itemvalue="Python.calldeleteuser" />
         <item itemvalue="Python.count_word" />
+        <item itemvalue="Python.calldeleteuser" />
         <item itemvalue="Python.wk_atomstep" />
         <item itemvalue="Python.callchangepass" />
       </list>
@@ -355,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577269160406</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="These are the modules I build for further usage.">
+      <created>1577274029260</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1577274029260</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -373,10 +380,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="665" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577084753967" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577269156751">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577274027604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577269156751" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577274027604" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1577090149840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -385,22 +392,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1577273949426">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1577277520145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577273949426" />
-    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1577273949426">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577277520145" />
+    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1577277520145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577273949426" />
-    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1577273949426">
+    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577277520145" />
+    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1577277520145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577273949426" />
-    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1577273949426">
+    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577277520145" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1577277520145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577273949426" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577277520145" />
     <state width="1894" height="335" key="GridCell.Tab.1.bottom" timestamp="1576933866915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -417,22 +424,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1894" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576933866915" />
+    <state x="694" y="169" key="RollbackChangesDialog" timestamp="1577274329710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="169" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577274329710" />
     <state x="348" y="78" key="SettingsEditor" timestamp="1577266527520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577266527520" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577269163578">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577274033113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577269163578" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577274033113" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398178075" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577265118875">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577275188709">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577265118875" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577275188709" />
     <state x="632" y="285" key="git4idea.merge.GitPullDialog" timestamp="1577089028368">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
