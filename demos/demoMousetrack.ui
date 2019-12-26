@@ -24,8 +24,8 @@
    </property>
    <property name="font">
     <font>
-     <family>Courier</family>
-     <pointsize>10</pointsize>
+     <family>Arial</family>
+     <pointsize>12</pointsize>
     </font>
    </property>
    <property name="text">
@@ -33,11 +33,11 @@
 where mouse is moved on.</string>
    </property>
   </widget>
-  <widget class="QLabel" name="label_2">
+  <widget class="QLabel" name="labelCoordinate">
    <property name="geometry">
     <rect>
-     <x>40</x>
-     <y>120</y>
+     <x>20</x>
+     <y>240</y>
      <width>321</width>
      <height>41</height>
     </rect>
