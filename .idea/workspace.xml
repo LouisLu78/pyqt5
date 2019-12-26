@@ -2,10 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demos/callmouseclick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoMouseClicks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoMouseClicks.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit-0.6.1.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit-0.6.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit-0.6.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit-0.6.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit-0.6.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit-0.6.1.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit-0.6.1.dist-info/pbr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit-0.6.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit/pdfkit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/venv/Lib/site-packages/pdfkit/source.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/calldrawdot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoDrawDot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoDrawDot.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/callmouseclick.py" beforeDir="false" afterPath="$PROJECT_DIR$/demos/callmouseclick.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +65,7 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.callmouseclick">
+  <component name="RunManager" selected="Python.calldrawdot">
     <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MycalldemoSpinner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calldrawdot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/MycalldemoSpinner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calldrawdot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,28 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="callmousetrack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callmousetrack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="count_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="integral" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +141,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/count_words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/integral.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vectors_angle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Program files/JetBrains/my_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/vectors_angle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.callmouseclick" />
-        <item itemvalue="Python.callmousetrack" />
+        <item itemvalue="Python.calldrawdot" />
         <item itemvalue="Python.Fetch_today_News" />
-        <item itemvalue="Python.MycalldemoSpinner" />
-        <item itemvalue="Python.count_words" />
+        <item itemvalue="Python.integral" />
+        <item itemvalue="Python.callmouseclick" />
+        <item itemvalue="Python.vectors_angle" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577343950686</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="These are the modules I build for further usage.">
+      <created>1577345387331</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1577345387331</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -410,10 +432,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="665" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577084753967" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577343949717">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577345386503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577343949717" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577345386503" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1577090149840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -422,22 +444,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1577345335682">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1577369360664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577345335682" />
-    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1577345335682">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577369360664" />
+    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1577369360664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577345335682" />
-    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1577345335682">
+    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577369360664" />
+    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1577369360664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577345335682" />
-    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1577345335682">
+    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577369360664" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1577369360664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577345335682" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577369360664" />
     <state width="1894" height="335" key="GridCell.Tab.1.bottom" timestamp="1576933866915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -458,22 +480,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="169" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577342355379" />
-    <state x="348" y="78" key="SettingsEditor" timestamp="1577327313334">
+    <state x="348" y="78" key="SettingsEditor" timestamp="1577348317814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577327313334" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577343952275">
+    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577348317814" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577345388621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577343952275" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577345388621" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398178075" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577327197234">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577348137612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577327197234" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577348137612" />
     <state x="632" y="285" key="git4idea.merge.GitPullDialog" timestamp="1577089028368">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
