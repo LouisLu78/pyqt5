@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demos/calldrawline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoDrawLine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoDrawLine.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/calldrawdifflines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoDrawDiffLine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/demoDrawDiffLine.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/MycalldemoDrawDiffLines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/MydemoDrawDiffLine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/MydemoDrawDiffLine.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Program files/JetBrains/my_module/count_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/count_words.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +56,20 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calldrawline">
-    <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_module" />
+  <component name="RunManager" selected="Python.MycalldemoDrawDiffLines">
+    <configuration name="MycalldemoDrawDiffLines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Program files/JetBrains/my_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/Fetch_today_News.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/MycalldemoDrawDiffLines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calldrawdot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="callListWidget3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calldrawdot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callListWidget3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calldrawline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="callListWidgetop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calldrawline.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callListWidgetop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="callmouseclick" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calldemolistwidget1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callmouseclick.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calldemolistwidget1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,19 +141,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="integral" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_module" />
+    <configuration name="calldrawdifflines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Program files/JetBrains/my_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/integral.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calldrawdifflines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calldrawline" />
-        <item itemvalue="Python.calldrawdot" />
-        <item itemvalue="Python.Fetch_today_News" />
-        <item itemvalue="Python.integral" />
-        <item itemvalue="Python.callmouseclick" />
+        <item itemvalue="Python.MycalldemoDrawDiffLines" />
+        <item itemvalue="Python.calldrawdifflines" />
+        <item itemvalue="Python.calldemolistwidget1" />
+        <item itemvalue="Python.callListWidgetop" />
+        <item itemvalue="Python.callListWidget3" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577369651739</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="These are the modules I build for further usage.">
+      <created>1577370622646</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1577370622646</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -424,10 +437,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="665" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577084753967" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577369649690">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577370621787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577369649690" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577370621787" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1577090149840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -436,22 +449,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1577370576187">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1577433319262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577370576187" />
-    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1577370576187">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577433319262" />
+    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1577433319262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577370576187" />
-    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1577370576187">
+    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577433319262" />
+    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1577433319262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577370576187" />
-    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1577370576187">
+    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577433319262" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1577433319262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577370576187" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577433319262" />
     <state width="1894" height="335" key="GridCell.Tab.1.bottom" timestamp="1576933866915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -476,18 +489,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577348317814" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577369654738">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577370624818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577369654738" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577370624818" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398178075" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577348137612">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577404714580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577348137612" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577404714580" />
     <state x="632" y="285" key="git4idea.merge.GitPullDialog" timestamp="1577089028368">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
