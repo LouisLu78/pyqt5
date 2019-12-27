@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demos/callDrawText.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoDrawText.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/demoDrawText.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -427,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577434873722</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="These are the modules I build for further usage.">
+      <created>1577455469000</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1577455469000</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -445,10 +449,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="665" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577084753967" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577434872894">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577455467907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577434872894" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577455467907" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1577090149840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -497,10 +501,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577348317814" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577434875183">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577455470641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577434875183" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577455470641" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
