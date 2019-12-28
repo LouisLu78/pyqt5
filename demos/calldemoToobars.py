@@ -5,7 +5,7 @@
 import sys
 from PyQt5.QtWidgets import QMainWindow, QApplication
 from PyQt5.QtCore import Qt, QRect
-from PyQt5.QtGui import QPainter, QPen
+from PyQt5.QtGui import QPainter
 from demos.demoToolBars import *
 
 class AppWindow(QMainWindow):
@@ -13,6 +13,7 @@ class AppWindow(QMainWindow):
         super().__init__()
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
+        self.setWindowTitle('Draw_Sipmle_Figure')
         self.toDo=''
         self.pos1, self.pos2 = [0, 0], [0, 0]
         self.ui.actionCircle.triggered.connect(self.drawCircle)
