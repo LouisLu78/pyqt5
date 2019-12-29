@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change beforePath="$USER_HOME$/eclipse-workspace/miscellaneous/reverse_string.py" beforeDir="false" afterPath="$USER_HOME$/eclipse-workspace/miscellaneous/reverse_string.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/eclipse-workspace/miscellaneous/test_kwargs.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/eclipse-workspace/miscellaneous/wk_atomstep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Program files/JetBrains/my_module/Fetch_today_News.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/Fetch_today_News.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/eclipse-workspace" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Program files/JetBrains/my_module" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1UbTiAEQM5Ml8qNlViCUTbU1sXR" />
@@ -48,7 +50,7 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverse_string">
+  <component name="RunManager" selected="Python.Fetch_today_News">
     <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,48 +64,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/Fetch_today_News.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="callAminationBounce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callAminationBounce.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="callAminationMoveCurve" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callAminationMoveCurve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,13 +114,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="eclipse-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/eclipse-workspace/miscellaneous" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/test_kwargs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wk_atomstep" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="eclipse-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/eclipse-workspace/miscellaneous" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/wk_atomstep.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fetch_today_News" />
+        <item itemvalue="Python.wk_atomstep" />
+        <item itemvalue="Python.test_kwargs" />
         <item itemvalue="Python.reverse_string" />
         <item itemvalue="Python.calldemoToobars" />
-        <item itemvalue="Python.Fetch_today_News" />
-        <item itemvalue="Python.callAminationMoveCurve" />
-        <item itemvalue="Python.callAminationBounce" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577534003191</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="These are the modules I build for further usage.">
+      <created>1577585525528</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1577585525528</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -492,10 +501,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="665" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577084753967" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577540824979">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1577585523575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577540824979" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577585523575" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1577090149840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -504,22 +513,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1577585454506">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1577607984632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577585454506" />
-    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1577585454506">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577607984632" />
+    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1577607984632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577585454506" />
-    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1577585454506">
+    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577607984632" />
+    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1577607984632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577585454506" />
-    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1577585454506">
+    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577607984632" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1577607984632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577585454506" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577607984632" />
     <state width="1894" height="335" key="GridCell.Tab.1.bottom" timestamp="1576933866915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -540,22 +549,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="169" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577342355379" />
-    <state x="348" y="78" key="SettingsEditor" timestamp="1577348317814">
+    <state x="348" y="78" key="SettingsEditor" timestamp="1577604490122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577348317814" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577540829296">
+    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577604490122" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1577585526989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577540829296" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577585526989" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398178075" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577584247657">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1577607187519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577584247657" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577607187519" />
     <state x="622" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577454731063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
