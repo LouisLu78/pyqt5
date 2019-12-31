@@ -21,8 +21,7 @@ class MyForm(QDialog):
         qp=QPainter()
         qp.begin(self)
         pen=QPen(Qt.red, 4)
-        self.lineTypeFormat='Qt.'+self.lineType
-        pen.setStyle(eval(self.lineTypeFormat))
+        pen.setStyle(eval('Qt.'+self.lineType))
         qp.setPen(pen)
         qp.drawLine(self.pos1[0], self.pos1[1], self.pos2[0], self.pos2[1])
         qp.end()
