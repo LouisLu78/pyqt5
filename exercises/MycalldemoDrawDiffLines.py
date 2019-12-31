@@ -14,6 +14,7 @@ class MyForm(QDialog):
         super().__init__()
         self.ui=Ui_Dialog()
         self.ui.setupUi(self)
+        self.setWindowTitle("Draw_Lines")
         self.lineType='SolidLine'
         self.pos1, self.pos2 = [0, 0], [0, 0]
 
