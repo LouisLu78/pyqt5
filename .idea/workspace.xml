@@ -2,6 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/.idea/My_Cbase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/.vs/Cfree/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/.vs/slnx.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/gcdnumber.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/hanoi.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/Question5_26.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/Question5_26.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Cbase/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Program files/JetBrains/my_module/Grab_wechat_articles.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/Grab_wechat_articles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my_git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_git.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,31 +59,31 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Basanwei\" />
-      <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise\ex" />
-      <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Program files\JetBrains\my_module" />
       <recent name="D:\PyQt5" />
       <recent name="C:\Users\Basanwei\eclipse-workspace" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Basanwei\" />
+      <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise\ex" />
+      <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.fetch_wechatpage_asyn (1)">
-    <configuration name="callprogressbarThread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_git" />
+  <component name="RunManager" selected="Python.Fetch_today_News">
+    <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Program files/JetBrains/my_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/callprogressbarThread.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/Fetch_today_News.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calltwopbacynio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calldemoToobars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calltwopbacynio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calldemoToobars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fetch_today_News" />
+        <item itemvalue="Python.calldemoToobars" />
         <item itemvalue="Python.fetch_wechatpage_asyn (1)" />
         <item itemvalue="Python.fetch_wechat_articles" />
         <item itemvalue="Python.fetch_wechatpage_asyn" />
-        <item itemvalue="Python.calltwopbacynio" />
-        <item itemvalue="Python.callprogressbarThread" />
       </list>
     </recent_temporary>
   </component>
@@ -193,13 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576311494869</updated>
-    </task>
-    <task id="LOCAL-00013" summary="These are the modules I build for further usage.">
-      <created>1577024849115</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1577024849115</updated>
     </task>
     <task id="LOCAL-00014" summary="These are the modules I build for further usage.">
       <created>1577087831691</created>
@@ -537,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578058932596</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="These are the modules I build for further usage.">
+      <created>1578065887609</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1578065887609</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -559,14 +574,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578041697278" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1578058930911">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1578065885453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578058930911" />
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1577090149840">
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578065885453" />
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1578067084144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577090149840" />
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578067084144" />
     <state x="791" y="422" key="Github.Dialog.Accounts.Choose" timestamp="1577889045598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -575,22 +590,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1578059119148">
+    <state width="1075" height="268" key="GridCell.Tab.0.bottom" timestamp="1578104699374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578059119148" />
-    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1578059119147">
+    <state width="1075" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578104699374" />
+    <state width="1075" height="268" key="GridCell.Tab.0.center" timestamp="1578104699374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578059119147" />
-    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1578059119147">
+    <state width="1075" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578104699374" />
+    <state width="1075" height="268" key="GridCell.Tab.0.left" timestamp="1578104699374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578059119147" />
-    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1578059119148">
+    <state width="1075" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578104699374" />
+    <state width="1075" height="268" key="GridCell.Tab.0.right" timestamp="1578104699374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578059119148" />
+    <state width="1075" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578104699374" />
     <state width="1894" height="333" key="GridCell.Tab.1.bottom" timestamp="1577973982504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -615,10 +630,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577944525801" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578058936293">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578125024159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578058936293" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578125024159" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -627,10 +642,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578018603128" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1578065877871">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1578124954518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578065877871" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578124954518" />
     <state x="622" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577454731063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

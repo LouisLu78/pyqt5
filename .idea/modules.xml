@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/Exercise/.idea/Exercise.iml" filepath="$USER_HOME$/Exercise/.idea/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../My_Cbase/.idea/My_Cbase.iml" filepath="$PROJECT_DIR$/../My_Cbase/.idea/My_Cbase.iml" />
       <module fileurl="file://$USER_HOME$/eclipse-workspace/.idea/eclipse-workspace.iml" filepath="$USER_HOME$/eclipse-workspace/.idea/eclipse-workspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/my_git.iml" filepath="$PROJECT_DIR$/.idea/my_git.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Program files/JetBrains/my_module/.idea/my_module.iml" filepath="$PROJECT_DIR$/../Program files/JetBrains/my_module/.idea/my_module.iml" />
