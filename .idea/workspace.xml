@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/qustion6_9.c" afterDir="false" />
+    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="These are the modules I build for further usage.">
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/qustion6_11.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -194,13 +194,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576311494869</updated>
-    </task>
-    <task id="LOCAL-00017" summary="These are the modules I build for further usage.">
-      <created>1577107470455</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1577107470455</updated>
     </task>
     <task id="LOCAL-00018" summary="These are the modules I build for further usage.">
       <created>1577171286820</created>
@@ -538,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578144951665</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="These are the modules I build for further usage.">
+      <created>1578321476771</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1578321476771</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -560,10 +560,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578041697278" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1578144949064">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1578323709964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578144949064" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578323709964" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1578067084144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -616,10 +616,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577944525801" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578144953540">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578321479130">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578144953540" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578321479130" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
