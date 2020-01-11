@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/Question7_12.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/Question7_12.c" afterDir="false" />
+    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="These are the modules I build for further usage.">
+      <change beforePath="$PROJECT_DIR$/../My_Cbase/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -194,13 +194,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576311494869</updated>
-    </task>
-    <task id="LOCAL-00033" summary="These are the modules I build for further usage.">
-      <created>1577433640028</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1577433640028</updated>
     </task>
     <task id="LOCAL-00034" summary="These are the modules I build for further usage.">
       <created>1577434873722</created>
@@ -538,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578658095957</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="These are the modules I build for further usage.">
+      <created>1578661120803</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1578661120803</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -560,10 +560,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578041697278" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1578658094348">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1578661288931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578658094348" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578661288931" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1578067084144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -576,22 +576,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
-    <state width="1066" height="268" key="GridCell.Tab.0.bottom" timestamp="1578660907606">
+    <state width="1065" height="268" key="GridCell.Tab.0.bottom" timestamp="1578752756566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1066" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578660907606" />
-    <state width="1066" height="268" key="GridCell.Tab.0.center" timestamp="1578660907606">
+    <state width="1065" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578752756566" />
+    <state width="1065" height="268" key="GridCell.Tab.0.center" timestamp="1578752756565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1066" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578660907606" />
-    <state width="1066" height="268" key="GridCell.Tab.0.left" timestamp="1578660907606">
+    <state width="1065" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578752756565" />
+    <state width="1065" height="268" key="GridCell.Tab.0.left" timestamp="1578752756565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1066" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578660907606" />
-    <state width="1066" height="268" key="GridCell.Tab.0.right" timestamp="1578660907606">
+    <state width="1065" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578752756565" />
+    <state width="1065" height="268" key="GridCell.Tab.0.right" timestamp="1578752756566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1066" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578660907606" />
+    <state width="1065" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578752756566" />
     <state width="1894" height="333" key="GridCell.Tab.1.bottom" timestamp="1577973982504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -616,10 +616,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577944525801" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578658097738">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578661123892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578658097738" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578661123892" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -628,10 +628,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578018603128" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1578661053870">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1578752559017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578661053870" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578752559016" />
     <state x="622" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577454731063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
