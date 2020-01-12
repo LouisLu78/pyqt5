@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/Question7_12_V2.c" afterDir="false" />
+      <change afterPath="$USER_HOME$/eclipse-workspace/miscellaneous/appy_httpx.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/eclipse-workspace/miscellaneous/fetch_httpx.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/eclipse-workspace/miscellaneous/fetch_wechat_articles.py" beforeDir="false" afterPath="$USER_HOME$/eclipse-workspace/miscellaneous/fetch_wechat_articles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Cbase/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Program files/JetBrains/my_module/article104.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/article104.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../My_Cbase" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/eclipse-workspace" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GithubDefaultAccount">
@@ -56,7 +60,7 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace\Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Fetch_today_News">
+  <component name="RunManager" selected="Python.appy_httpx">
     <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Grab_wechat_articles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/bubble_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/Grab_wechat_articles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,28 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calldemoToobars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos/calldemoToobars.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fetch_pypage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="appy_httpx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="eclipse-workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/fetch_pypage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/appy_httpx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_luck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fetch_httpx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="eclipse-workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +136,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/test_luck.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/fetch_httpx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fetch_wechat_articles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="eclipse-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/eclipse-workspace/miscellaneous" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/fetch_wechat_articles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.appy_httpx" />
+        <item itemvalue="Python.fetch_httpx" />
+        <item itemvalue="Python.Grab_wechat_articles" />
+        <item itemvalue="Python.fetch_wechat_articles" />
         <item itemvalue="Python.Fetch_today_News" />
-        <item itemvalue="Python.fetch_pypage" />
-        <item itemvalue="Python.bubble_sort" />
-        <item itemvalue="Python.test_luck" />
-        <item itemvalue="Python.calldemoToobars" />
       </list>
     </recent_temporary>
   </component>
@@ -194,13 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576311494869</updated>
-    </task>
-    <task id="LOCAL-00035" summary="These are the modules I build for further usage.">
-      <created>1577455469000</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1577455469000</updated>
     </task>
     <task id="LOCAL-00036" summary="These are the modules I build for further usage.">
       <created>1577456318689</created>
@@ -538,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578753882633</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="These are the modules I build for further usage.">
+      <created>1578756238766</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1578756238766</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -560,10 +564,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578041697278" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1578753880227">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1578756237298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578753880227" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578756237298" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1578067084144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -576,22 +580,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
-    <state width="1065" height="268" key="GridCell.Tab.0.bottom" timestamp="1578752756566">
+    <state width="1230" height="268" key="GridCell.Tab.0.bottom" timestamp="1578819319305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1065" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578752756566" />
-    <state width="1065" height="268" key="GridCell.Tab.0.center" timestamp="1578752756565">
+    <state width="1230" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578819319305" />
+    <state width="1230" height="268" key="GridCell.Tab.0.center" timestamp="1578819319305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1065" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578752756565" />
-    <state width="1065" height="268" key="GridCell.Tab.0.left" timestamp="1578752756565">
+    <state width="1230" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578819319305" />
+    <state width="1230" height="268" key="GridCell.Tab.0.left" timestamp="1578819319305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1065" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578752756565" />
-    <state width="1065" height="268" key="GridCell.Tab.0.right" timestamp="1578752756566">
+    <state width="1230" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578819319305" />
+    <state width="1230" height="268" key="GridCell.Tab.0.right" timestamp="1578819319305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1065" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578752756566" />
+    <state width="1230" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578819319305" />
     <state width="1894" height="333" key="GridCell.Tab.1.bottom" timestamp="1577973982504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -608,18 +612,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1894" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577973982504" />
-    <state x="694" y="169" key="RollbackChangesDialog" timestamp="1578555407969">
+    <state x="694" y="169" key="RollbackChangesDialog" timestamp="1578816665845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="694" y="169" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578555407969" />
-    <state x="348" y="78" key="SettingsEditor" timestamp="1577944525801">
+    <state x="694" y="169" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578816665845" />
+    <state x="348" y="78" key="SettingsEditor" timestamp="1578817118257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577944525801" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578754034619">
+    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578817118257" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1578756240235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578754034619" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578756240235" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -628,10 +632,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578018603128" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1578753868639">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1578796374459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578753868639" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578796374459" />
     <state x="622" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577454731063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
