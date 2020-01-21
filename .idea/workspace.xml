@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/Question12_6.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/Question7_25.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/Question7_25.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/qustion2_5.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/question2_5.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/qustion3_5.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/question3_5.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/qustion3_8.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/question3_8.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/qustion6_11.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/question6_11.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/qustion6_15.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/question6_15.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/qustion6_19.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/question6_19.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/qustion6_9.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/question6_9.c" afterDir="false" />
+    <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="These are the modules I build for further usage.">
+      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/Question12_6.c" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/Question12_6.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,13 +194,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576311494869</updated>
-    </task>
-    <task id="LOCAL-00052" summary="These are the modules I build for further usage.">
-      <created>1577889446276</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1577889446276</updated>
     </task>
     <task id="LOCAL-00053" summary="These are the modules I build for further usage.">
       <created>1577925259907</created>
@@ -546,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579443163931</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="These are the modules I build for further usage.">
+      <created>1579530028390</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1579530028390</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -568,10 +560,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578838146317" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1579443161025">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1579530589022">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579443161025" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579530589022" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1578067084144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -616,30 +608,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1894" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577973982504" />
-    <state x="694" y="169" key="RollbackChangesDialog" timestamp="1578816665845">
+    <state x="694" y="169" key="RollbackChangesDialog" timestamp="1579611071571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="694" y="169" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578816665845" />
+    <state x="694" y="169" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579611071571" />
     <state x="348" y="78" key="SettingsEditor" timestamp="1579266088008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579266088008" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1579443166579">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1579530030845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579443166579" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579530030845" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398178075" />
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578018603128">
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579611794931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578018603128" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1579523592732">
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579611794931" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1579610459567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579523592732" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579610459567" />
     <state x="622" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577454731063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
