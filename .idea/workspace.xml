@@ -195,27 +195,6 @@
       <option name="presentableId" value="Default" />
       <updated>1576311494869</updated>
     </task>
-    <task id="LOCAL-00092" summary="These are the modules I build for further usage.">
-      <created>1579183361082</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1579183361082</updated>
-    </task>
-    <task id="LOCAL-00093" summary="These are the modules I build for further usage.">
-      <created>1579245805687</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1579245805687</updated>
-    </task>
-    <task id="LOCAL-00094" summary="These are the modules I build for further usage.">
-      <created>1579264882270</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1579264882270</updated>
-    </task>
     <task id="LOCAL-00095" summary="These are the modules I build for further usage.">
       <created>1579273695193</created>
       <option name="number" value="00095" />
@@ -538,7 +517,28 @@
       <option name="project" value="LOCAL" />
       <updated>1580623364535</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="These are the modules I build for further usage.">
+      <created>1580625065406</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1580625065406</updated>
+    </task>
+    <task id="LOCAL-00142" summary="These are the modules I build for further usage.">
+      <created>1580625135485</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1580625135485</updated>
+    </task>
+    <task id="LOCAL-00143" summary="These are the modules I build for further usage.">
+      <created>1580625183872</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1580625183872</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -560,10 +560,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578838146317" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1580625133922">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1580625182411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580625133922" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580625182411" />
     <state x="184" y="87" key="DiffContextDialog" timestamp="1580216586600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -620,10 +620,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579266088008" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1580625136970">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1580625184997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580625136970" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580625184997" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
