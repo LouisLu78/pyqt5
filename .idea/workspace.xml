@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/CPP/.vs/CPP/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/CPP/.vs/CPP/v16/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/CPP/.vs/CPP/v16/TestStore/0/000-0000.testlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/CPP/.vs/CPP/v16/TestStore/0/testlog.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/CPP/.vs/CPP/v16/ipch/AutoPCH/9037ae0cce332466/QUESTION15_5.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/CPP/.vs/ProjectSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/CPP/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Cbase/CPP/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Cbase/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Cbase/CPP/Question17_8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/CPP/Question17_8.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/.vs/Cfree/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/.vs/Cfree/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_Cbase/Cfree/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/Cfree/.vs/slnx.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +68,7 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leap_year">
+  <component name="RunManager" selected="Python.Fetch_today_News">
     <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,8 +176,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leap_year" />
         <item itemvalue="Python.Fetch_today_News" />
+        <item itemvalue="Python.leap_year" />
         <item itemvalue="Python.pycb1.16" />
         <item itemvalue="Python.pycb1.14" />
         <item itemvalue="Python.pycb1.13" />
@@ -193,13 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576311494869</updated>
-    </task>
-    <task id="LOCAL-00097" summary="These are the modules I build for further usage.">
-      <created>1579336402641</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1579336402641</updated>
     </task>
     <task id="LOCAL-00098" summary="These are the modules I build for further usage.">
       <created>1579354133455</created>
@@ -537,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580627759332</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="These are the modules I build for further usage.">
+      <created>1580654881180</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1580654881180</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -559,10 +572,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578838146317" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1580627757624">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1580738932397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580627757624" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580738932397" />
     <state x="184" y="87" key="DiffContextDialog" timestamp="1580216586600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -579,22 +592,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
-    <state width="1616" height="268" key="GridCell.Tab.0.bottom" timestamp="1580395275409">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1580695426455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1616" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580395275409" />
-    <state width="1616" height="268" key="GridCell.Tab.0.center" timestamp="1580395275409">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580695426455" />
+    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1580695426455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1616" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580395275409" />
-    <state width="1616" height="268" key="GridCell.Tab.0.left" timestamp="1580395275409">
+    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580695426455" />
+    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1580695426455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1616" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580395275409" />
-    <state width="1616" height="268" key="GridCell.Tab.0.right" timestamp="1580395275409">
+    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580695426455" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1580695426455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1616" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580395275409" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580695426455" />
     <state width="1894" height="333" key="GridCell.Tab.1.bottom" timestamp="1577973982504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -619,10 +632,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579266088008" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1580627762386">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1580654883557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580627762386" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580654883557" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -631,10 +644,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580566139924" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1580654782117">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1580738910029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580654782117" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580738910029" />
     <state x="622" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577454731063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -659,5 +672,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="262" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1576397913491" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Program files/JetBrains/my_module/leap_year.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
