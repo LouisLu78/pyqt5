@@ -4,6 +4,5 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$USER_HOME$/Exercise" vcs="Git" />
     <mapping directory="$USER_HOME$/eclipse-workspace" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../My_Cbase" vcs="Git" />
   </component>
 </project>

@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/VSCom2019/.vs/VSCom2019/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/VSCom2019/.vs/VSCom2019/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/VSCom2019/.vs/VSCom2019/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/VSCom2019/.vs/VSCom2019/v16/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/VSCom2019/Debug/VSCom2019.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/VSCom2019/Debug/VSCom2019.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/VSCom2019/Debug/VSCom2019.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/VSCom2019/Debug/VSCom2019.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/VSCom2019/VSCom2019/Debug/Q1711.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/VSCom2019/VSCom2019/Debug/Q1711.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/VSCom2019/VSCom2019/Debug/VSCom2019.Build.CppClean.log" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/VSCom2019/VSCom2019/Debug/VSCom2019.Build.CppClean.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/VSCom2019/VSCom2019/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/VSCom2019/VSCom2019/Debug/vc142.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/VSCom2019/VSCom2019/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/VSCom2019/VSCom2019/Debug/vc142.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My_Cbase/VSCom2019/VSCom2019/Q1711.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../My_Cbase/VSCom2019/VSCom2019/Q1711.cpp" afterDir="false" />
+      <change afterPath="$USER_HOME$/eclipse-workspace/miscellaneous/pycb2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program files/JetBrains/my_module/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my_git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_git.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../My_Cbase" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/eclipse-workspace" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GithubDefaultAccount">
@@ -64,7 +60,7 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.binomial_distribution">
+  <component name="RunManager" selected="Python.pycb2.1">
     <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,6 +74,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/Fetch_today_News.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="My_Cbase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,27 +145,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pycb1.14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="eclipse-workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/eclipse-workspace/miscellaneous" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/pycb1.14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="pycb1.16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="eclipse-workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,13 +166,77 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pycb2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="eclipse-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/eclipse-workspace/miscellaneous" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/pycb2.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="My_Cbase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="My_Cbase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="My_Cbase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.binomial_distribution" />
+        <item itemvalue="Python.pycb2.1" />
         <item itemvalue="Python.Fetch_today_News" />
+        <item itemvalue="Python.binomial_distribution" />
         <item itemvalue="Python.leap_year" />
         <item itemvalue="Python.pycb1.16" />
-        <item itemvalue="Python.pycb1.14" />
       </list>
     </recent_temporary>
   </component>
@@ -202,13 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576311494869</updated>
-    </task>
-    <task id="LOCAL-00100" summary="These are the modules I build for further usage.">
-      <created>1579443163931</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1579443163931</updated>
     </task>
     <task id="LOCAL-00101" summary="These are the modules I build for further usage.">
       <created>1579530028390</created>
@@ -546,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580739598264</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="These are the modules I build for further usage.">
+      <created>1580909770343</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1580909770343</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -568,10 +628,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578838146317" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1580909752333">
+    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1580909768484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580909752333" />
+    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580909768484" />
     <state x="184" y="87" key="DiffContextDialog" timestamp="1580216586600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -588,22 +648,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1580739684728">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom" timestamp="1581168395867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580739684728" />
-    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1580739684728">
+    <state width="1894" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581168395867" />
+    <state width="1894" height="268" key="GridCell.Tab.0.center" timestamp="1581168395867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580739684728" />
-    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1580739684728">
+    <state width="1894" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581168395867" />
+    <state width="1894" height="268" key="GridCell.Tab.0.left" timestamp="1581168395867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580739684728" />
-    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1580739684728">
+    <state width="1894" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581168395867" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right" timestamp="1581168395867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580739684728" />
+    <state width="1894" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581168395867" />
     <state width="1894" height="333" key="GridCell.Tab.1.bottom" timestamp="1577973982504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -628,10 +688,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579266088008" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1580739599982">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1580909772280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580739599982" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580909772280" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -640,10 +700,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580566139924" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1580909744098">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1581167593805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580909744098" />
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581167593805" />
     <state x="622" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577454731063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
