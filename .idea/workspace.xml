@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be938cda-a93d-4f21-8ba7-5866e6544d41" name="Default Changelist" comment="My Python 2020">
-      <change beforePath="$USER_HOME$/eclipse-workspace/miscellaneous/Q11.13c_V2.py" beforeDir="false" afterPath="$USER_HOME$/eclipse-workspace/miscellaneous/Q11.13c_V2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="PyQt5" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,7 +30,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -42,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../My_Cbase" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -56,7 +51,7 @@
       <recent name="C:\Users\Basanwei\eclipse-workspace" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bubble_sort">
+  <component name="RunManager" selected="Python.Fetch_today_News">
     <configuration name="Fetch_today_News" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,19 +73,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q11.13c_V2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="eclipse-workspace" />
+    <configuration name="Fraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/eclipse-workspace/miscellaneous" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Program files/JetBrains/my_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/Q11.13c_V2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/Fraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,19 +115,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_module" />
+    <configuration name="calculation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Program files/JetBrains/my_module" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Exercise/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/bubble_sort.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Exercise/Practice/calculation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pycb2.15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="count_word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="eclipse-workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/pycb2.15.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/eclipse-workspace/miscellaneous/count_word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,19 +157,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vectors_angle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_module" />
+    <configuration name="race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Program files/JetBrains/my_module" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Exercise/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Program files/JetBrains/my_module/vectors_angle.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Exercise/Practice/race.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,25 +223,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bubble_sort" />
-        <item itemvalue="Python.Q11.13c_V2" />
         <item itemvalue="Python.Fetch_today_News" />
-        <item itemvalue="Python.vectors_angle" />
-        <item itemvalue="Python.pycb2.15" />
+        <item itemvalue="Python.Fraction" />
+        <item itemvalue="Python.race" />
+        <item itemvalue="Python.count_word" />
+        <item itemvalue="Python.calculation" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Basanwei\AppData\Roaming\Subversion</configuration>
@@ -258,48 +241,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576311494869</updated>
-    </task>
-    <task id="LOCAL-00113" summary="These are the modules I build for further usage.">
-      <created>1579956228679</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1579956228679</updated>
-    </task>
-    <task id="LOCAL-00114" summary="These are the modules I build for further usage.">
-      <created>1579956422878</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1579956422878</updated>
-    </task>
-    <task id="LOCAL-00115" summary="These are the modules I build for further usage.">
-      <created>1580019020114</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1580019020114</updated>
-    </task>
-    <task id="LOCAL-00116" summary="These are the modules I build for further usage.">
-      <created>1580019067246</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1580019067262</updated>
-    </task>
-    <task id="LOCAL-00117" summary="These are the modules I build for further usage.">
-      <created>1580019950813</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1580019950814</updated>
-    </task>
-    <task id="LOCAL-00118" summary="These are the modules I build for further usage.">
-      <created>1580020861222</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1580020861223</updated>
     </task>
     <task id="LOCAL-00119" summary="These are the modules I build for further usage.">
       <created>1580048489881</created>
@@ -602,7 +543,49 @@
       <option name="project" value="LOCAL" />
       <updated>1583242303736</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="My Python 2020">
+      <created>1584366431884</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1584366431884</updated>
+    </task>
+    <task id="LOCAL-00163" summary="My Python 2020">
+      <created>1584625409674</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1584625409690</updated>
+    </task>
+    <task id="LOCAL-00164" summary="My Python 2020">
+      <created>1584711713228</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1584711713228</updated>
+    </task>
+    <task id="LOCAL-00165" summary="My Python 2020">
+      <created>1586532471921</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1586532471921</updated>
+    </task>
+    <task id="LOCAL-00166" summary="My Python 2020">
+      <created>1586575058192</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1586575058192</updated>
+    </task>
+    <task id="LOCAL-00167" summary="My Python 2020">
+      <created>1586699326543</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1586699326543</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -614,10 +597,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="My Python 2020" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="100" key="#Notifications" timestamp="1577082605481">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="452" y="100" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1577082605481" />
     <state x="665" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579249602089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -626,10 +605,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582280544738" />
-    <state x="543" y="48" key="CommitChangelistDialog2" timestamp="1583242300550">
+    <state x="543" y="22" key="CommitChangelistDialog2" timestamp="1586699325028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583242300550" />
+    <state x="543" y="22" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586699325028" />
     <state x="184" y="87" key="DiffContextDialog" timestamp="1580216586600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -638,94 +617,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581750111701" />
-    <state x="791" y="422" key="Github.Dialog.Accounts.Choose" timestamp="1577889045598">
+    <state width="1589" height="266" key="GridCell.Tab.0.bottom" timestamp="1586699407274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="791" y="422" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1577889045598" />
-    <state x="738" y="369" width="474" height="302" key="Github.ShareDialog" timestamp="1577089449658">
+    <state width="1589" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586699407274" />
+    <state width="1589" height="266" key="GridCell.Tab.0.center" timestamp="1586699407274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="738" y="369" width="474" height="302" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089449658" />
-    <state width="1602" height="268" key="GridCell.Tab.0.bottom" timestamp="1583242605010">
+    <state width="1589" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586699407274" />
+    <state width="1589" height="266" key="GridCell.Tab.0.left" timestamp="1586699407274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1602" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583242605010" />
-    <state width="1602" height="268" key="GridCell.Tab.0.center" timestamp="1583242605010">
+    <state width="1589" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586699407274" />
+    <state width="1589" height="266" key="GridCell.Tab.0.right" timestamp="1586699407274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1602" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583242605010" />
-    <state width="1602" height="268" key="GridCell.Tab.0.left" timestamp="1583242605010">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1602" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583242605010" />
-    <state width="1602" height="268" key="GridCell.Tab.0.right" timestamp="1583242605010">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1602" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583242605010" />
-    <state width="1894" height="333" key="GridCell.Tab.1.bottom" timestamp="1577973982504">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1894" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577973982504" />
-    <state width="1894" height="333" key="GridCell.Tab.1.center" timestamp="1577973982504">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1894" height="333" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577973982504" />
-    <state width="1894" height="333" key="GridCell.Tab.1.left" timestamp="1577973982504">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1894" height="333" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577973982504" />
-    <state width="1894" height="333" key="GridCell.Tab.1.right" timestamp="1577973982504">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1894" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577973982504" />
+    <state width="1589" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586699407274" />
     <state x="694" y="169" key="RollbackChangesDialog" timestamp="1580623258025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="169" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580623258025" />
-    <state x="348" y="78" key="SettingsEditor" timestamp="1579266088008">
+    <state x="348" y="78" key="SettingsEditor" timestamp="1586592729404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579266088008" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1583242305970">
+    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586592729404" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1586699328589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583242305970" />
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576398178075">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398178075" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586699328589" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580566139924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580566139924" />
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1584366263116">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1586529426572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584366263116" />
-    <state x="622" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577454731063">
+    <state x="592" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586529426572" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1586697627505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="622" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577454731063" />
-    <state x="632" y="285" key="git4idea.merge.GitPullDialog" timestamp="1577089028368">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="632" y="285" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089028368" />
-    <state x="738" y="374" key="git4idea.rebase.GitRebaseDialog" timestamp="1577089488073">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="738" y="374" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577089488073" />
-    <state x="731" y="410" key="git4idea.ui.GitStashDialog" timestamp="1576398072769">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="731" y="410" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398072769" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1579266161010">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579266161010" />
-    <state x="752" y="262" key="svn.repositoryBrowser" timestamp="1576397913491">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="752" y="262" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1576397913491" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586697627505" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
